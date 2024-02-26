@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Sameer Webpage</title>
+</head>
+
+<body>
+    <center>
+        <h1>SAMEER</h1>
+        <img src="sameer.jpg.png" style="height: 400px; width: 300px;">
+        <h2>Education & Interest </h2>
+        <P>Knowledge is a familiarity, awareness, or understanding of someone or something, such as facts,<br>
+            information, descriptions, or skills, which is acquired through experience or education by perceiving,<br>
+            discovering, or learning. Knowledge can refer to a theoretical or practical understanding of a subject.<br>
+            Interest is a powerful motivational process that energizes learning, guides academic and career
+            trajectories,<br>
+            and is essential to academic success. Interest is both a psychological state of attention and affect toward
+            <br>
+            a particular object or topic, and an enduring predisposition to reengage over time.</p>
+        <h2> Hobbies </h2>
+        <p> A hobby is considered to be a regular activity that is done for enjoyment, typically during one's leisure
+            time.<br>
+            Hobbies include collecting themed items and objects, engaging in creative and artistic pursuits, playing
+            sports,<br>
+            or pursuing other amusements. Participation in hobbies encourages acquiring substantial skills and knowledge
+            in<br>
+            that area. A list of hobbies changes with renewed interests and developing fashions, making it diverse and
+            lengthy.<br>
+            Hobbies tend to follow trends in society.</p>
+        <h2> Career Ambition </h2>
+        <p>Your career aspirations are your vision for your future. They are what you hope to achieve in your
+            professional
+            life<br>
+            in the years to come. Put simply, a career aspiration is a long-term dream that you are pursuing. A career
+            aspiration<br>
+            can even be accompanied by a 5-year plan.When you have good ambition, you still retain perspective and a
+            sense
+            of balance <br>
+            between work and personal life. Good ambition often inspires others, having supportive, caring people around
+            you
+            is a sign <br>
+            your ambition is healthy.</p>
+    </center>
+</body>
+
+</html>
